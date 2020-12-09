@@ -12,7 +12,7 @@ To develop competence of CSS Flexbox & Grid
 
 Manuel Alonge
 
-## Technologies
+## Languages
 
 HTML, CSS
 
