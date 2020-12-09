@@ -23,3 +23,7 @@ Trello, Toggl time tracker
 ## Methodology 
 
 Agile
+
+## Deployment link
+
+https://loruki-website-alonge.netlify.app/
