@@ -112,6 +112,21 @@
     color: var(--light-color);
 }
 
+.bg-dark,
+.btn-dark {
+    background-color: var(--dark-color);
+    color: var(--light-color);
+}
+
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a {
+    color: var(--light-color);
+}
+
 
 /* Text sizes */
 
