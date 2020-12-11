@@ -1,4 +1,4 @@
-# Loruki Website
+# MindfulCloud Website
 
 ## Project Description
 
@@ -26,4 +26,4 @@ Agile
 
 ## Deployment link
 
-https://loruki-website-alonge.netlify.app/
+https://mindfulcloud.netlify.app/
